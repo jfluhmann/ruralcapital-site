@@ -286,7 +286,7 @@ p:last-child {
   content: '';
   position: absolute;
   inset: 0;
-  background-image: url('../assets/hero-windmill.jpg');
+  background-image: url('../assets/hero-texas-star.jpg');
   background-size: cover;
   background-position: center 40%;
   background-repeat: no-repeat;
